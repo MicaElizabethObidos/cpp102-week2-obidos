@@ -1,1 +1,20 @@
-START
+# Activity 1
+Start
+Input number n
+If n % 2 == 0, print "Even"
+Else print "Odd"
+Stop
+# Activity 2
+Start
+Input a and b
+If a > b, print a is larger
+Else print b is larger
+Stop
+# Activity 3
+Start
+Input n
+Set sum = 0
+For i = 1 to n
+sum = sum + i
+Print sum
+Stop
