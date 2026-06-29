@@ -1,0 +1,26 @@
+START
+INPUT n
+IF n MOD 2 == 0 THEN
+    PRINT "Even"
+ELSE
+    PRINT "Odd"
+END IF
+END
+
+START
+INPUT a, b
+IF a > b THEN
+    PRINT "a is larger"
+ELSE
+    PRINT "b is larger"
+END IF
+END
+
+START
+INPUT n
+sum ← 0
+FOR i ← 1 TO n DO
+    sum ← sum + i
+END FOR
+PRINT sum
+END
